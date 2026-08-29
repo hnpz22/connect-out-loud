@@ -34,7 +34,7 @@ rules:
     - Incluir siempre una sección "No-gos" con lo que queda explícitamente fuera.
     - Verificar contra docs/01 y docs/02 antes de proponer; muchas ideas
       razonables están descartadas por evidencia, no por gusto.
-  spec:
+  specs:
     - Criterios de aceptación en formato EARS (UBICUO, POR EVENTO, POR ESTADO,
       OPCIONAL, NO DESEADO, COMPLEJO).
     - Nivel spec-anchored, no spec-as-source. Specs cortas y verificables.
